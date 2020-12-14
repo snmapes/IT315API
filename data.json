@@ -1,0 +1,35 @@
+{
+   "CarParts":[
+      {
+         "title":"Engine",
+         "desc":"The heart and soul of your vehicle is the internal combustion engine. The engine block features parts such as the timing chain, camshaft, crankshaft, spark plugs, cylinder heads, valves and pistons.",
+         "CarPartImage":"https://raw.githubusercontent.com/snmapes/IT315API/blob/main/tim-mossholder-VurHDpO4VYI-unsplash.png",
+         "SiteURl":"https://www.drivparts.com/parts-matter/learning-center/by-the-numbers/car-parts-diagram.html"
+      },
+      {
+         "title":"Turbo",
+         "desc":"The factory turbo has limited air flow capability at high rpms, and high boost at high rpms is how you make lots of horsepower! There are many turbo choices you can make to solve the high-end wheeze.",
+         "CarPartImage":"https://raw.githubusercontent.com/snmapes/IT315API/blob/main/turbo.png",
+         "SiteURl":"https://www.drivparts.com/parts-matter/learning-center/by-the-numbers/car-parts-diagram.html"
+      },
+      {
+         "title":"Exhaust",
+         "desc":"The stock exhaust system uses small-diameter tubing and a fairly restrictive muffler in the effort to combat noise. The exhaust system is built in multiple sections. The smallest section you can replace extends from about the rear axle to the outlet.",
+         "CarPartImage":"https://raw.githubusercontent.com/snmapes/IT315API/blob/main/exhaust.png",
+         "SiteURl":"https://www.fastwrx.com/pages/cat-back-exhaust-system"
+      },
+      {
+         "title":"Intercooler",
+         "desc":"An intercooler, orcharge-air cooler, is an air-to-air or air-to-liquid heat exchange device used on turbocharged and supercharged (forced induction) internal combustion engines to improve their volumetric efficiency by increasing intake air-charge density through isochoric cooling.",
+         "CarPartImage":"https://raw.githubusercontent.com/snmapes/IT315API/blob/main/intercooler.png",
+         "SiteURl":"https://www.fastwrx.com/pages/upgraded-top-mounted-intercooler"
+      },
+      {
+         "title":"Air Intake",
+         "desc":"An aftermarket air intake system used to be an easy way for owners of turbocharged cars to add gobs of power. Technology marches on, though, and the newest factory-built intakes are much better.",
+         "CarPartImage":"https://raw.githubusercontent.com/snmapes/IT315API/blob/main/coldairintake.jpg",
+         "SiteURl":"https://www.fastwrx.com/pages/high-flow-intake-system"
+      }
+   ],
+   "Status":"OK"
+}
